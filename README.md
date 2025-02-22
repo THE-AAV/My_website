@@ -27,10 +27,10 @@ To run the website locally, follow these steps:
    git clone https://github.com/THE-AAV/My_website.git
 2.**Navigate to the project directory:**
   ```bash
-  cd My_website
+ cd My_website
 3.**Install dependencies:**
   ```bash
-  npm install
+ npm install
 4.**Start the development server:**
   ```bash
   npm run dev
